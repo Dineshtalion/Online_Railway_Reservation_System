@@ -61,7 +61,7 @@
 								<li class="icon brands fa-instagram"><a href="https://www.instagram.com/v.ish.nu_4/">instagram</a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; Online Railway Reservation System.</li><li>Developed By: VISHNU KUMAR, SANJEETH</li>
+								<li>&copy; Online Railway Reservation System.</li><li>Developed By: Dinesh S</li>
 							</ul>
 						</div>
 					</section>
